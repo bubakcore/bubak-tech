@@ -17,7 +17,6 @@ A modern, responsive tech products website built to practise Tailwind CSS.
 - Bootstrap Icons (icon font only)
 
 ## Live Demo
-[View the site]([https://YOUR-GITHUB-USERNAME.github.io/bubak-tech/](https://bubakcore.github.io/bubak-tech/))
-
+[View the site](https://bubakcore.github.io/bubak-tech/)
 ## Author
 BUBAK
